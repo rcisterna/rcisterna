@@ -1,11 +1,11 @@
-## Hi everyone!
-**I'm Ricardo, a Backend Engineer (who happens to know Frontend as well) working from Concepción, Chile.**
+### Hello there!
+#### I'm a Backend Engineer (who happens to know Frontend as well) working from Concepción, Chile.
 
-#### Now
+##### Now
 - 🔍 Looking for a new job, after [WanderJaunt](https://www.wanderjaunt.com/) closes in June 2022.
-- 👨‍💻 Developing a command line tool that validates that commit messages are conventional commits compliant.
+- 👨‍💻 Developing [CLint](https://github.com/rcisterna/clint), a command line tool that validates that commit messages are [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#specification) compliant.
 
-#### About me
+##### About me
 IT Consultant, focused on product development.
 Experience in:
 - ⚙️ Developing web systems, desktop software, microcontrollers firmware.
@@ -15,20 +15,5 @@ Experience in:
 
 If you want to get into details, [check my resume](attached/resume_rcisterna.pdf "Resume").
 
-#### Wanted to get in touch?
+##### Wanted to get in touch?
 💬 Feel free to [send me an email](mailto:r.cisternasantos@gmail.com).
-
-<!--
-**rcisterna/rcisterna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
