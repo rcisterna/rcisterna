@@ -13,7 +13,7 @@ Experience in:
 - 👥 Leading multidisciplinary teams (with developers, designers, electronic engineers, speech therapists, among others).
 - 📝 Analyzing data and implementing machine learning algorithms.
 
-If you want to get into details, [check my resume](attached/resume_rcisterna.pdf "Resume").
+For more details, please [check my resume](attached/resume_rcisterna.pdf).
 
 ##### Wanted to get in touch?
 💬 Feel free to [send me an email](mailto:r.cisternasantos@gmail.com).
