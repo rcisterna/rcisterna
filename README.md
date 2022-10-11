@@ -1,8 +1,8 @@
 ### Hello there!
-#### I'm a Backend Engineer (who happens to know Frontend as well) working from Concepción, Chile.
+#### I'm a Backend Engineer (who happens to know Frontend as well) exporting code from Concepción, Chile 🇨🇱 to the world 🌎.
 
 ##### Now
-- 🔍 Looking for a new job, after [WanderJaunt](https://www.wanderjaunt.com/) closes in June 2022.
+- 🏢 Working as Software Engineer II at [YCharts](https://ycharts.com/).
 - 👨‍💻 Developing [CLint](https://github.com/rcisterna/clint), a command line tool that validates that commit messages are [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#specification) compliant.
 
 ##### About me
